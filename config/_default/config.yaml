@@ -1,0 +1,53 @@
+---
+baseURL: https://rice-course-mlsys.github.io/MLSys-Seminar/
+# baseURL: "/"
+# hugo server --baseURL=http://localhost:1313/
+title: "CS 1002"
+theme: hugo-geekdoc
+
+# Required to get well formatted code blocks
+pygmentsUseClasses: true
+pygmentsCodeFences: true
+disablePathToLower: true
+enableGitInfo: true
+
+timeout: 180000
+pluralizeListTitles: false
+
+defaultContentLanguage: en
+
+# Required if you want to render robots.txt template
+enableRobotsTXT: true
+
+markup:
+  goldmark:
+    renderer:
+      # Needed for mermaid shortcode or when nesting shortcodes (e.g. img within
+      # columns or tabs)
+      unsafe: true
+  extensions:
+    definitionList: true
+  tableOfContents:
+    startLevel: 1
+    endLevel: 9
+
+taxonomies:
+  tag: tags
+
+outputs:
+  home:
+    - HTML
+  page:
+    - HTML
+  section:
+    - HTML
+  taxonomy:
+    - HTML
+  term:
+    - HTML
+
+security:
+  exec:
+    allow:
+      - "^asciidoctor$"
+      - "^git$"
