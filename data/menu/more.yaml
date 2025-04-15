@@ -1,8 +1,8 @@
----
-more:
-  - name: Recent Updates
-    ref: "/posts"
-    icon: "gdoc_notification"
+# ---
+# more:
+#   - name: Recent Updates
+#     ref: "/posts"
+#     icon: "gdoc_notification"
   # - name: Releases
   #   ref: "https://github.com/thegeeklab/hugo-geekdoc/releases"
   #   external: true

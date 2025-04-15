@@ -1,6 +1,10 @@
 ---
 header:
   - name: GitHub
-    ref: https://github.com/jlumbroso/hugo-geekdoc-class-template
+    ref: https://github.com/Rice-Course-MLSys/MLSys-Seminar/tree/main
     icon: false
     external: true
+  # - name: live
+  #   ref: https://github.com/Rice-Course-MLSys/MLSys-Seminar/tree/main
+  #   icon: false
+  #   external: true

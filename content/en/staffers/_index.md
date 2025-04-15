@@ -1,5 +1,5 @@
 ---
-title: "Our Staff"
+title: "Staff"
 geekdocCollapseSection: false
 geekdocHidden: false
 cascade:
@@ -7,8 +7,7 @@ cascade:
   imageShape: "circle"  # Options: rectangle, square, circle, ellipse
 roleOrder:
   - "Instructor"
-  - "Head TA"
   - "TA"
 ---
 
-Staff
+---

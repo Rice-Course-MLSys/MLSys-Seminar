@@ -57,6 +57,7 @@ Modify the `config.yaml` file under the `config` directory:
 - `baseURL` is your homepage domain.
 - `title` is the homepage title.
 
+The document of `hugo-geekdoc` is available at https://jlumbroso.github.io/hugo-geekdoc-github-example/usage/configuration/.
 ## Modify the site content
 
 Content: Markdown files under the `content` directory.

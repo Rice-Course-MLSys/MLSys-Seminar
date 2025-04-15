@@ -1,11 +1,7 @@
 ---
-title: "TinyML and Efficient Deep Learning Computing"
-geekdocBreadcrumb: false
-# geekdocNav: false
-# geekdocAnchor: false
+title: "About"
+sortReverse: true
 ---
-
-## CS 598 - Fall 2025
 
 This course focuses on efficient machine learning and systems. This is a crucial area as deep neural networks demand extraordinary levels of computation, hindering its deployment on everyday devices and burdening the cloud infrastructure. This course introduces efficient AI computing techniques that enable powerful deep learning applications on resource-constrained devices. 
 
