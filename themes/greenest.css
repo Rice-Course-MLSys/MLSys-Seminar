@@ -1,7 +1,7 @@
 /* Light mode theming */
 :root,
 :root[color-theme="light"] {
-  --header-background: #088024; /* Dark green */
+  --header-background:  #00205B; /* Dark green */
   --header-font-color: #ffffff;
 
   --body-background: #ffffff;
@@ -10,7 +10,7 @@
   --mark-color: #e7ff86; /* Pastel yellow-green */
 
   --button-background: #5ada3a; /* Bright green */
-  --button-border-color: #088024; /* Dark green */
+  --button-border-color:  #00205B; /* Dark green */
 
   --link-color: #9d37b7; /* Vibrant purple */
   --link-color-visited: #dd721f; /* Bold orange */
@@ -30,7 +30,7 @@
 
   --control-icons: #807456; /* Brownish taupe */
 
-  --footer-background: #088024; /* Dark green */
+  --footer-background:  #00205B; /* Dark green */
   --footer-font-color: #ffffff;
   --footer-link-color: #e7ff86; /* Pastel yellow-green */
   --footer-link-color-visited: #dd721f; /* Bold orange */
@@ -38,7 +38,7 @@
 
 @media (prefers-color-scheme: light) {
   :root {
-    --header-background: #088024;
+    --header-background:  #00205B;
     --header-font-color: #ffffff;
 
     --body-background: #ffffff;
@@ -47,7 +47,7 @@
     --mark-color: #e7ff86;
 
     --button-background: #5ada3a;
-    --button-border-color: #088024;
+    --button-border-color:  #00205B;
 
     --link-color: #9d37b7;
     --link-color-visited: #dd721f;
@@ -67,7 +67,7 @@
 
     --control-icons: #807456;
 
-    --footer-background: #088024;
+    --footer-background:  #00205B;
     --footer-font-color: #ffffff;
     --footer-link-color: #e7ff86;
     --footer-link-color-visited: #dd721f;
@@ -76,7 +76,7 @@
 
 /* Dark mode theming */
 :root[color-theme="dark"] {
-  --header-background: #088024; /* Dark green */
+  --header-background:  #00205B; /* Dark green */
   --header-font-color: #ffffff;
 
   --body-background: #343a40;
@@ -85,7 +85,7 @@
   --mark-color: #e7ff86; /* Pastel yellow-green */
 
   --button-background: #5ada3a; /* Bright green */
-  --button-border-color: #088024; /* Dark green */
+  --button-border-color:  #00205B; /* Dark green */
 
   --link-color: #9d37b7; /* Vibrant purple */
   --link-color-visited: #dd721f; /* Bold orange */
@@ -105,7 +105,7 @@
 
   --control-icons: #807456; /* Brownish taupe */
 
-  --footer-background: #088024; /* Dark green */
+  --footer-background:  #00205B; /* Dark green */
   --footer-font-color: #ffffff;
   --footer-link-color: #e7ff86; /* Pastel yellow-green */
   --footer-link-color-visited: #dd721f; /* Bold orange */
@@ -113,7 +113,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --header-background: #088024;
+    --header-background:  #00205B;
     --header-font-color: #ffffff;
 
     --body-background: #343a40;
@@ -122,7 +122,7 @@
     --mark-color: #e7ff86;
 
     --button-background: #5ada3a;
-    --button-border-color: #088024;
+    --button-border-color:  #00205B;
 
     --link-color: #9d37b7;
     --link-color-visited: #dd721f;
@@ -142,7 +142,7 @@
 
     --control-icons: #807456;
 
-    --footer-background: #088024;
+    --footer-background:  #00205B;
     --footer-font-color: #ffffff;
     --footer-link-color: #e7ff86;
     --footer-link-color-visited: #dd721f;
