@@ -61,7 +61,7 @@
   --button-border-color:  #00205B; /* Dark green */
 
   --link-color: #9d37b7; /* Vibrant purple */
-  --link-color-visited: #ffffff; /* Bold orange */
+  --link-color-visited: #380e99; /* Bold orange */ /* Changed to a more vibrant purple, formerly #ffffff */
 
   --code-background: #f5f6f8;
   --code-accent-color: #dad496; /* Soft gold */
