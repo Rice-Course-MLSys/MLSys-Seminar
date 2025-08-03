@@ -2,7 +2,7 @@
 baseURL: https://rice-course-mlsys.github.io/MLSys-Seminar/
 # baseURL: "/"
 # hugo server --baseURL=http://localhost:1313/
-title: "CS 598"
+title: "COMP 620"
 theme: hugo-geekdoc
 
 # Required to get well formatted code blocks
