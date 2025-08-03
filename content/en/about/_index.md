@@ -3,34 +3,44 @@ title: "About"
 sortReverse: true
 ---
 
-This course focuses on efficient machine learning and systems. This is a crucial area as deep neural networks demand extraordinary levels of computation, hindering its deployment on everyday devices and burdening the cloud infrastructure. This course introduces efficient AI computing techniques that enable powerful deep learning applications on resource-constrained devices. 
+This course is a research seminar focused on efficient machine learning systems. This is a crucial area as modern deep neural networks, especially Large Language Models (LLMs) and generative models, demand extraordinary levels of computation. This computational cost hinders their deployment and scaling, creating significant challenges for both resource-constrained edge devices and large-scale cloud infrastructure. This course delves into the cutting-edge techniques that enable powerful and efficient AI applications.
+
+We will cover the full stack of AI systems, from low-level kernel optimizations to high-level algorithm and model designs. The course will survey and dissect recent influential research papers in the field.
 
 ---
 **Topics include:**
-- Model compression, pruning, quantization
-- Neural architecture search
-- Distributed training
-- Data/model parallelism
-- Gradient compression
-- On-device fine-tuning
-- Application-specific acceleration techniques for large language models and diffusion models
+- **Kernel-Level Optimizations**: I/O-aware and exact attention mechanisms (e.g., FlashAttention), sparse attention, and custom kernel generation with AI compilers (e.g., TVM, MLIR).
 
-Students will get hands-on experience implementing model compression techniques and deploying large language models (Llama2-7B) on a laptop.
+- **Efficient LLMs**: State-of-the-art techniques for efficient training (e.g., ZeRO, LoRA), inference (e.g., vLLM, speculative decoding), model compression (quantization, pruning), and long-context optimizations.
+
+- **Efficient Model Architectures**: Design principles for efficient models, including Mixture-of-Experts (MoE) and State Space Models (Mamba).
+
+- **Generative AI Systems**: Optimization techniques for emerging modalities, including efficient video generation, super-resolution, and understanding.
+
+- **Secure and Private AI**: Methods for ensuring model and data security, including watermarking and encryption in the context of large models.models
+
+This course is run as a research seminar. The focus will be on critically reading, presenting, and discussing influential papers in efficient AI systems. Through weekly readings and student-led presentations, participants will gain a deep understanding of the key challenges, foundational techniques, and future directions in the field. Approximately every two weeks, we will also host a **guest lecture** from a leading researcher or engineer from academia or industry, providing direct insights into the state-of-the-art.
 
 ---
 
-**Lecture Videos:** [https://live.efficientml.ai/](https://live.efficientml.ai/)  
-**Time:** Tuesday/Thursday 3:35-5:00pm Eastern Time  
-**Location:** 34-101  
-**Office Hour:** Thursday 5:00-6:00 pm Eastern Time, 38-344 Meeting Room  
-**Discussion:** Piazza  
-**Homework Submission:** Canvas  
+**Lecture Videos:** [Link to be provided] 
+
+**Time:** Friday 3:00 PM–4:15 PM CST
+
+**Location:** [TBA]
+
+**Office Hour:** [TBA]
+
+**Discussion:** [TBA] 
+
+**Homework Submission:** [TBA]
 
 **Contact**:
 
-For external inquiries, personal matters, or emergencies, you can email us at efficientml-staff [at] mit.edu. If you are interested in getting updates, please sign up here to join our mailing list to get notified!
+[TBD]
 
 **Prerequisites**:
-6.191 Computation Structures and 6.390 Intro to Machine Learning. Students who don't full-fill the prerequisites will be de-registered in the second week of class. If you believe you have equivalent prior experience (e.g., a computer architecture course taken during your undergraduate studies at another institution), you may petition for consideration. Please submit your Petition Form by Sept. 6, 2024, 11:59:59 PM EST.
+
+[TBD]
 
 
