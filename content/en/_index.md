@@ -31,20 +31,13 @@ This course is run as a research seminar. The focus will be on critically readin
 
 **Time:** Friday 3:00 PM–4:15 PM CST
 
-**Location:** [TBA]
+**Building:**  Anne and Charles Duncan Hall 
 
-**Office Hour:** [TBA]
+**Room:** 1070
 
-**Discussion:** [TBA] 
+**Start Date:** 08/25/2025 
 
-**Homework Submission:** [TBA]
+**End Date:** 12/05/2025
 
-**Contact**:
-
-[TBD]
-
-**Prerequisites**:
-
-[TBD]
 
 
