@@ -256,3 +256,15 @@ table th:nth-of-type(2) {
 | <span class="tooltip" data-tooltip="Tang, Xi, et al. 'Adaptive keyframe sampling for long video understanding.' Proceedings of the Computer Vision and Pattern Recognition Conference. 2025.">Adaptive Keyframe Sampling</span>       | [PDF](https://arxiv.org/pdf/2502.21271)            |
 | <span class="tooltip" data-tooltip="Ye, Jinhui, et al. 'Re-thinking temporal search for long-form video understanding.' Proceedings of the Computer Vision and Pattern Recognition Conference. 2025.">Re-thinking Temporal Search</span>         | [PDF](https://www.alphaxiv.org/abs/2504.02259) |
 | <span class="tooltip" data-tooltip="Li, Yixuan, et al. 'Improving llm video understanding with 16 frames per second.' arXiv preprint arXiv:2503.13956 (2025).">Improving LLM Video Understanding with 16 FPS</span>   | [PDF](https://arxiv.org/pdf/2503.13956)            |
+
+---
+
+## Guest Lecture Materials
+
+| Paper                                                | Link                                               |
+|:------------------------------------------------------:|----------------------------------------------------|
+| <span class="tooltip" data-tooltip="Dong, Juechu, et al. 'Flex attention: A programming model for generating optimized attention kernels.' arXiv preprint arXiv:2412.05496 (2024).">FlexAttention</span>       | [PDF](https://arxiv.org/pdf/2412.05496)  |
+| <span class="tooltip" data-tooltip="Dong, Joy, et al. 'FlexAttention Part II: FlexAttention for Inference.' PyTorch Blog, 30 Apr. 2025, pytorch.org/blog/flexattention-for-inference/.">FlexAttention(PyTorch Blog)</span>         | [Website]( https://pytorch.org/blog/flexattention-for-inference/ )|
+| <span class="tooltip" data-tooltip="Guan, Yue, et al. 'KPerfIR: Towards a Open and Compiler-centric Ecosystem for GPU Kernel Performance Tooling on Modern AI Workloads.' Proceedings of the 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI '25), USENIX Association, 2025.">DynamicScaler</span>    | [PDF](https://www.usenix.org/conference/osdi25/presentation/guan)  |
+| <span class="tooltip" data-tooltip="Zhao, Liangyu, et al. 'ForestColl: Throughput-Optimal Collective Communications on Heterogeneous Network Fabrics.' arXiv preprint arXiv:2402.06787 (2024).">ForestColl</span> | [PDF](https://arxiv.org/pdf/2402.06787) |
+| <span class="tooltip" data-tooltip="Wang, Zhuang, et al. 'GEMINI: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints.' Proceedings of the 29th Symposium on Operating Systems Principles (SOSP '23), Association for Computing Machinery, 2023, pp. 364–381. https://doi.org/10.1145/3600006.3613145.">ForestColl</span> | [PDF](https://dl.acm.org/doi/10.1145/3600006.3613145) |
