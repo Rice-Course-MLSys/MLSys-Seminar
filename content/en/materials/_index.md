@@ -206,14 +206,34 @@ table th:nth-of-type(2) {
 ---
 
 ## Chapter IV: Secure LLM
-
 ### Subtopic 1: Diffusion Model/Flow Matching
-
+| Paper                                                | Link                                               |
+|:------------------------------------------------------:|----------------------------------------------------|
+| <span class="tooltip" data-tooltip="Song, Jiaming, Chenlin Meng, and Stefano Ermon. 'Denoising diffusion implicit models.' arXiv preprint arXiv:2010.02502 (2020).">DDIM</span>| [PDF](https://arxiv.org/pdf/2010.02502)            |
+| <span class="tooltip" data-tooltip="Ho, Jonathan, Ajay Jain, and Pieter Abbeel. 'Denoising diffusion probabilistic models.' Advances in neural information processing systems 33 (2020): 6840-6851.">DDPM</span>       | [PDF](https://arxiv.org/pdf/2006.11239)            |
+| <span class="tooltip" data-tooltip="Song, Yang, et al. 'Score-based generative modeling through stochastic differential equations.' arXiv preprint arXiv:2011.13456 (2020).">Score-based</span> | [PDF]( https://arxiv.org/pdf/2011.13456 )            |
+| <span class="tooltip" data-tooltip="Lipman, Yaron, et al. 'Flow matching for generative modeling.' arXiv preprint arXiv:2210.02747 (2022).">Flow Matching</span>    | [PDF]( https://arxiv.org/pdf/2210.02747 )            |
 ### Subtopic 2: Watermarking
-
-### Subtopic 3: Efficient CNN
-
+| Paper                                                | Link                                               |
+|:------------------------------------------------------:|----------------------------------------------------|
+| <span class="tooltip" data-tooltip="Zhu, Jiren, et al. 'HiDDeN: Hiding data with deep networks.' Proceedings of the European conference on computer vision (ECCV). 2018.">HiDDeN</span>| [PDF](https://arxiv.org/pdf/1807.09937)            |
+| <span class="tooltip" data-tooltip="Fernandez, Pierre, et al. 'The stable signature: Rooting watermarks in latent diffusion models.' Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023.">Stable Signature</span>       | [PDF](https://arxiv.org/pdf/2303.15435)            |
+| <span class="tooltip" data-tooltip="Zhao, Yunqing, et al. 'A recipe for watermarking diffusion models.' arXiv preprint arXiv:2303.10137 (2023).">WatermarkDM</span> | [PDF](https://arxiv.org/pdf/2303.10137)            |
+| <span class="tooltip" data-tooltip="Feng, Weitao, et al. 'Aqualora: Toward white-box protection for customized stable diffusion models via watermark lora.' arXiv preprint arXiv:2405.11135 (2024).">AquaLoRA</span>    | [PDF](https://arxiv.org/pdf/2405.11135)            |
+| <span class="tooltip" data-tooltip="Wen, Hanwen, et al. 'Tree-ring watermarks: Fingerprints for diffusion images that are invisible and robust.' Advances in Neural Information Processing Systems 36 (2023): 2718-2732.">Tree-Ring</span>    | [PDF](https://arxiv.org/pdf/2305.20030)            |
+### Subtopic 3: System Optimization Techniques
+| Paper                                                | Link                                               |
+|:------------------------------------------------------:|----------------------------------------------------|
+| <span class="tooltip" data-tooltip="Peng, Yanghua, et al. 'A generic communication scheduler for distributed DNN training acceleration.' Proceedings of the 27th ACM Symposium on Operating Systems Principles. 2019.">ByteScheduler</span>| [PDF](https://dl.acm.org/doi/abs/10.1145/3341301.3359642)            |
+| <span class="tooltip" data-tooltip="Narayanan, Deepak, et al. 'PipeDream: Generalized pipeline parallelism for DNN training.' Proceedings of the 27th ACM symposium on operating systems principles. 2019.">PipeDream</span>       | [PDF](https://dl.acm.org/doi/abs/10.1145/3341301.3359646)            |
+| <span class="tooltip" data-tooltip="Feng, Boyuan, et al. 'Apnn-tc: Accelerating arbitrary precision neural networks on ampere gpu tensor cores.' Proceedings of the international conference for high performance computing, networking, storage and analysis. 2021.">APNN-TC</span> | [PDF](https://arxiv.org/pdf/2106.12169)            |
+| <span class="tooltip" data-tooltip="Yao, Zhewei, et al. 'QGTC: Accelerating quantized graph neural networks via GPU tensor core.' Proceedings of the 26th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming. 2021.">QGTC</span>    | [PDF](https://arxiv.org/pdf/2111.09547)            |
 ### Subtopic 4: Encryption
+| Paper                                                | Link                                               |
+|:------------------------------------------------------:|----------------------------------------------------|
+| <span class="tooltip" data-tooltip="Guruswami, Venkatesan, and Madhu Sudan. 'Improved decoding of Reed-Solomon and algebraic-geometric codes.' Proceedings 39th Annual Symposium on Foundations of Computer Science (Cat. No. 98CB36280). IEEE, 1998.">Reed-Solomon</span>| [PDF](https://ieeexplore.ieee.org/document/743426)            |
+| <span class="tooltip" data-tooltip="Koetter, Ralf, and Alexander Vardy. 'Algebraic soft-decision decoding of Reed-Solomon codes.' IEEE Transactions on Information Theory 49.11 (2003): 2809-2825.">Algebraic Soft-Decision Decoding of Reed–Solomon Codes</span>       | [PDF](https://ieeexplore.ieee.org/document/1246007)            |
+| <span class="tooltip" data-tooltip="Feng, Boyuan, et al. 'Zeno: A type-based optimization framework for zero knowledge neural network inference.' Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 1. 2024.">ZENO</span> | [PDF](https://dl.acm.org/doi/pdf/10.1145/3617232.3624852)            |
 
 ---
 
