@@ -30,7 +30,7 @@ The tentative grading breakdown for this course is as follows:
 - If you reference or use external materials, you must cite them properly.
 
 ---
-
+o
 ### AI Tool Policy
 
 - **Permitted**: AI tools may be used for **grammar checking** and **refining initial brainstorms**.  
