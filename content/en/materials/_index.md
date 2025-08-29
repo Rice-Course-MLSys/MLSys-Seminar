@@ -221,6 +221,38 @@ table th:nth-of-type(2) {
 
 ### Subtopic 1: SOTA/Baseline
 
-### Subtopic 2: Optimization Techniques
+| Paper                                                | Link                                               |
+|:------------------------------------------------------:|----------------------------------------------------|
+| <span class="tooltip" data-tooltip="Bai, Shuai, et al. 'Qwen2. 5-vl technical report.' arXiv preprint arXiv:2502.13923 (2025).">Qwen2.5-VL</span>       | [PDF](https://arxiv.org/abs/2502.13923)            |
+| <span class="tooltip" data-tooltip="Jiang, Jindong, et al. 'Token-efficient long video understanding for multimodal llms.' arXiv preprint arXiv:2503.04130 (2025).">Storm</span>         | [PDF](https://research.nvidia.com/labs/lpr/storm/) |
+| <span class="tooltip" data-tooltip="Lin, Bin, et al. 'Video-llava: Learning united visual representation by alignment before projection.' arXiv preprint arXiv:2311.10122 (2023).">LLaVA</span>   | [PDF](https://arxiv.org/abs/2311.10122)            |
+| <span class="tooltip" data-tooltip="Touvron, Hugo, et al. 'Llama: Open and efficient foundation language models.' arXiv preprint arXiv:2302.13971 (2023).">LLaMA</span>    | [PDF](https://arxiv.org/abs/2302.13971)            |
+| <span class="tooltip" data-tooltip="Guo, Dong, et al. 'Seed1. 5-vl technical report.' arXiv preprint arXiv:2505.07062 (2025).">Seed1.5 VL</span>       | [PDF](https://arxiv.org/abs/2505.07062)            |
+| <span class="tooltip" data-tooltip="Team, Kwai Keye, et al. 'Kwai Keye-VL Technical Report.' arXiv preprint arXiv:2507.01949 (2025).">Kwai Keye-VL</span>         | [PDF](https://arxiv.org/abs/2507.01949) |
 
-### Subtopic 3: Algorithm Design
+### Subtopic 2: System Optimization Techniques
+
+| Paper                                                | Link                                               |
+|:------------------------------------------------------:|----------------------------------------------------|
+| <span class="tooltip" data-tooltip="Ye, Xubing, et al. 'Atp-llava: Adaptive token pruning for large vision language models.' Proceedings of the Computer Vision and Pattern Recognition Conference. 2025.">ATP-LLaVA: Adaptive Token Pruning</span>       | [PDF](https://arxiv.org/pdf/2412.00447)            |
+| <span class="tooltip" data-tooltip="Shen, Leqi, et al. 'Fastvid: Dynamic density pruning for fast video large language models.' arXiv preprint arXiv:2503.11187 (2025).">FastVID: Dynamic Density Pruning</span>         | [PDF](https://www.arxiv.org/pdf/2503.11187) |
+| <span class="tooltip" data-tooltip="Wang, Xiao, et al. 'Adaretake: Adaptive redundancy reduction to perceive longer for video-language understanding.' arXiv preprint arXiv:2503.12559 (2025).">AdaReTaKe: Token Compression</span>   | [PDF](https://arxiv.org/pdf/2503.12559)            |
+| <span class="tooltip" data-tooltip="Tao, Wei, et al. 'Cocktail: Chunk-Adaptive Mixed-Precision Quantization for Long-Context LLM Inference.' 2025 Design, Automation & Test in Europe Conference (DATE). IEEE, 2025.">Cocktail: Mixed-Precision Quantization</span>    | [PDF](https://arxiv.org/pdf/2503.23294)            |
+| <span class="tooltip" data-tooltip="Zhu, Jianian, et al. 'Fastcache: Optimizing multimodal llm serving through lightweight kv-cache compression framework.' arXiv preprint arXiv:2503.08461 (2025).">FastCache: KV-Cache Compression</span>       | [PDF](https://arxiv.org/pdf/2503.08461)            |
+
+### Subtopic 3: Attention Kernel Optimization
+
+| Paper                                                | Link                                               |
+|:------------------------------------------------------:|----------------------------------------------------|
+| <span class="tooltip" data-tooltip="Chen, Feiyang, et al. 'Attentionengine: A versatile framework for efficient attention mechanisms on diverse hardware platforms.' arXiv preprint arXiv:2502.15349 (2025).">AttentionEngine</span>       | [PDF](https://arxiv.org/abs/2502.15349)            |
+| <span class="tooltip" data-tooltip="Zhang, Jintao, et al. 'SpargeAttention: Accurate and Training-free Sparse Attention Accelerating Any Model Inference.' Forty-second International Conference on Machine Learning.">SpargeAttn</span>         | [PDF](https://openreview.net/forum?id=74c3Wwk8Tc) |
+| <span class="tooltip" data-tooltip="Lai, Xunhao, et al. 'Flexprefill: A context-aware sparse attention mechanism for efficient long-sequence inference.' arXiv preprint arXiv:2502.20766 (2025).">FlexPrefill</span>   | [PDF](https://arxiv.org/abs/2502.20766)            |
+| <span class="tooltip" data-tooltip="Jiang, Huiqiang, et al. 'Minference 1.0: Accelerating pre-filling for long-context llms via dynamic sparse attention.' Advances in Neural Information Processing Systems 37 (2024): 52481-52515.">MInference 1.0</span>    | [PDF](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5dfbe6f5671e82c76841ba687a8a9ecb-Abstract-Conference.html)            |
+
+### Subtopic 4: Algorithm Design
+
+| Paper                                                | Link                                               |
+|:------------------------------------------------------:|----------------------------------------------------|
+| <span class="tooltip" data-tooltip="Tang, Xi, et al. 'Adaptive keyframe sampling for long video understanding.' Proceedings of the Computer Vision and Pattern Recognition Conference. 2025.">Adaptive Keyframe Sampling</span>       | [PDF](https://arxiv.org/pdf/2502.21271)            |
+| <span class="tooltip" data-tooltip="Ye, Jinhui, et al. 'Re-thinking temporal search for long-form video understanding.' Proceedings of the Computer Vision and Pattern Recognition Conference. 2025.">Re-thinking Temporal Search</span>         | [PDF](https://www.alphaxiv.org/abs/2504.02259) |
+| <span class="tooltip" data-tooltip="Li, Yixuan, et al. 'Improving llm video understanding with 16 frames per second.' arXiv preprint arXiv:2503.13956 (2025).">Improving LLM Video Understanding with 16 FPS</span>   | [PDF](https://arxiv.org/pdf/2503.13956)            |
