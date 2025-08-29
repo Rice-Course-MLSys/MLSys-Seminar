@@ -1,0 +1,28 @@
+MLLM Video Understanding		
+@ Fanjiang		
+Subtopic 1: SOTA/Baseline		
+Qwen2.5-VL	https://arxiv.org/abs/2502.13923	Bai, Shuai, et al. "Qwen2. 5-vl technical report." arXiv preprint arXiv:2502.13923 (2025).
+Storm	https://research.nvidia.com/labs/lpr/storm/	Jiang, Jindong, et al. "Token-efficient long video understanding for multimodal llms." arXiv preprint arXiv:2503.04130 (2025).
+LLaVA	https://arxiv.org/abs/2311.10122	Lin, Bin, et al. "Video-llava: Learning united visual representation by alignment before projection." arXiv preprint arXiv:2311.10122 (2023).
+LLaMA	https://arxiv.org/abs/2302.13971	Touvron, Hugo, et al. "Llama: Open and efficient foundation language models." arXiv preprint arXiv:2302.13971 (2023).
+Seed1.5 VL	https://arxiv.org/abs/2505.07062	Guo, Dong, et al. "Seed1. 5-vl technical report." arXiv preprint arXiv:2505.07062 (2025).
+Kwai Keye-VL	https://arxiv.org/abs/2507.01949	Team, Kwai Keye, et al. "Kwai Keye-VL Technical Report." arXiv preprint arXiv:2507.01949 (2025).
+Subtopic 2: System optimization techniques		
+Token Pruning		
+ATP-LLaVA: Adaptive Token Pruning for Large Vision Language Models	https://arxiv.org/pdf/2412.00447	Ye, Xubing, et al. "Atp-llava: Adaptive token pruning for large vision language models." Proceedings of the Computer Vision and Pattern Recognition Conference. 2025.
+FastVID: Dynamic Density Pruning for Fast Video Large Language Models	 https://www.arxiv.org/pdf/2503.11187	Shen, Leqi, et al. "Fastvid: Dynamic density pruning for fast video large language models." arXiv preprint arXiv:2503.11187 (2025).
+Token Compression		
+AdaReTaKe: Adaptive Redundancy Reduction to Perceive Longer for Video-language Understanding:	https://arxiv.org/pdf/2503.12559	Wang, Xiao, et al. "Adaretake: Adaptive redundancy reduction to perceive longer for video-language understanding." arXiv preprint arXiv:2503.12559 (2025).
+Cocktail: Chunk-Adaptive Mixed-Precision Quantization for Long-Context LLM Inference	https://arxiv.org/pdf/2503.23294	Tao, Wei, et al. "Cocktail: Chunk-Adaptive Mixed-Precision Quantization for Long-Context LLM Inference." 2025 Design, Automation & Test in Europe Conference (DATE). IEEE, 2025.
+Caching		
+FastCache: Optimizing Multimodal LLM Serving through Lightweight KV-Cache Compression Framework	https://arxiv.org/pdf/2503.08461	Zhu, Jianian, et al. "Fastcache: Optimizing multimodal llm serving through lightweight kv-cache compression framework." arXiv preprint arXiv:2503.08461 (2025).
+Subtopic 3: Attention Kenrel Optimization		
+AttentionEngine	https://arxiv.org/abs/2502.15349	Chen, Feiyang, et al. "Attentionengine: A versatile framework for efficient attention mechanisms on diverse hardware platforms." arXiv preprint arXiv:2502.15349 (2025).
+SpargeAttn	https://openreview.net/forum?id=74c3Wwk8Tc	Zhang, Jintao, et al. "SpargeAttention: Accurate and Training-free Sparse Attention Accelerating Any Model Inference." Forty-second International Conference on Machine Learning.
+FlexPrefill	https://arxiv.org/abs/2502.20766	Lai, Xunhao, et al. "Flexprefill: A context-aware sparse attention mechanism for efficient long-sequence inference." arXiv preprint arXiv:2502.20766 (2025).
+MInference 1.0	https://proceedings.neurips.cc/paper_files/paper/2024/hash/5dfbe6f5671e82c76841ba687a8a9ecb-Abstract-Conference.html	Jiang, Huiqiang, et al. "Minference 1.0: Accelerating pre-filling for long-context llms via dynamic sparse attention." Advances in Neural Information Processing Systems 37 (2024): 52481-52515.
+Subtopic 4: Algorithm Design		
+Sampling Frames		
+Adaptive Keyframe Sampling for Long Video Understanding	https://arxiv.org/pdf/2502.21271 	Tang, Xi, et al. "Adaptive keyframe sampling for long video understanding." Proceedings of the Computer Vision and Pattern Recognition Conference. 2025.
+Re-thinking Temporal Search for Long-Form Video Understanding	https://www.alphaxiv.org/abs/2504.02259	Ye, Jinhui, et al. "Re-thinking temporal search for long-form video understanding." Proceedings of the Computer Vision and Pattern Recognition Conference. 2025.
+Improving LLM Video Understanding with 16 Frames Per Second	https://arxiv.org/pdf/2503.13956 	Li, Yixuan, et al. "Improving llm video understanding with 16 frames per second." arXiv preprint arXiv:2503.13956 (2025).
