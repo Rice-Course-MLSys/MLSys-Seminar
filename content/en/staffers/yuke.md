@@ -6,6 +6,6 @@ email: yuke.wang@rice.edu
 website: https://www.wang-yuke.com/
 photo: ./yuke.png
 meta:
-  "Office Hours": "By Appointment"
+  "Office Hours": "**By Appointment**"
 geekdocHidden: true
 ---

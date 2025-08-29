@@ -7,6 +7,8 @@ This course is a research seminar focused on efficient machine learning systems.
 
 We will cover the full stack of AI systems, from low-level kernel optimizations to high-level algorithm and model designs. The course will survey and dissect recent influential research papers in the field.
 
+![img](./mlarch.jpg)
+
 ---
 **Topics include:**
 - **Kernel-Level Optimizations**: I/O-aware and exact attention mechanisms (e.g., FlashAttention), sparse attention, and custom kernel generation with AI compilers (e.g., TVM, MLIR).
