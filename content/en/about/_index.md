@@ -3,6 +3,8 @@ title: "About"
 sortReverse: true
 ---
 
+> **[IMPORTANT UPDATE] Assignment Schedule:** [[Google Sheet]](https://docs.google.com/spreadsheets/d/17DBRr8kjZIyAQJ1P26436a4KRUBQLg1sgonxTVYW_DM/edit?usp=sharing)
+
 This course is a research seminar focused on efficient machine learning systems. This is a crucial area as modern deep neural networks, especially Large Language Models (LLMs) and generative models, demand extraordinary levels of computation. This computational cost hinders their deployment and scaling, creating significant challenges for both resource-constrained edge devices and large-scale cloud infrastructure. This course delves into the cutting-edge techniques that enable powerful and efficient AI applications.
 
 We will cover the full stack of AI systems, from low-level kernel optimizations to high-level algorithm and model designs. The course will survey and dissect recent influential research papers in the field.
