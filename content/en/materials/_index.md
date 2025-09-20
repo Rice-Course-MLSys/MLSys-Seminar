@@ -76,6 +76,7 @@ table th:nth-of-type(2) {
 | <span class="tooltip" data-tooltip="Guan, Yue, et al. 'KPerfIR: Towards a Open and Compiler-centric Ecosystem for GPU Kernel Performance Tooling on Modern AI Workloads.' Proceedings of the 19th USENIX Symposium on Operating Systems Design and Implementation (OSDI '25), USENIX Association, 2025.">KPerfIR</span>    | [PDF](https://www.usenix.org/conference/osdi25/presentation/guan)  |
 | <span class="tooltip" data-tooltip="Zhao, Liangyu, et al. 'ForestColl: Throughput-Optimal Collective Communications on Heterogeneous Network Fabrics.' arXiv preprint arXiv:2402.06787 (2024).">ForestColl</span> | [PDF](https://arxiv.org/pdf/2402.06787) |
 | <span class="tooltip" data-tooltip="Wang, Zhuang, et al. 'GEMINI: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints.' Proceedings of the 29th Symposium on Operating Systems Principles (SOSP '23), Association for Computing Machinery, 2023, pp. 364–381. https://doi.org/10.1145/3600006.3613145.">Gemini</span> | [PDF](https://dl.acm.org/doi/10.1145/3600006.3613145) |
+| <span class="tooltip" data-tooltip="Dong, Yixin, et al. 'XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models.' Eighth Conference on Machine Learning and Systems.">XGrammar</span> | [PDF](https://arxiv.org/abs/2411.15100) |
 
 ---
 

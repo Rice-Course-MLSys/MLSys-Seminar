@@ -29,7 +29,7 @@ This course is run as a research seminar. The focus will be on critically readin
 
 **Lecture Videos:** [Link to be provided] 
 
-**Time:** Friday 3:00 PM–4:15 PM CST
+**Time:** Friday 2:00 PM–3:15 PM CST
 
 **Building:**  Anne and Charles Duncan Hall 
 
