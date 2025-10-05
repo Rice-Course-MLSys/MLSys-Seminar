@@ -5,9 +5,9 @@ geekdocBreadcrumb: false
 # geekdocAnchor: false
 ---
 
-> **[IMPORTANT UPDATE] Assignment Schedule:** [[Google Sheet]](https://docs.google.com/spreadsheets/d/17DBRr8kjZIyAQJ1P26436a4KRUBQLg1sgonxTVYW_DM/edit?usp=sharing)
+> **[UPDATE]:** Dr. Guan Yue's Slides now in Guest Lectures Page
 
-> **[UPDATE]:** Introduction Slides now in Guest Lectures Page
+> **[IMPORTANT UPDATE] Assignment Schedule:** [[Google Sheet]](https://docs.google.com/spreadsheets/d/17DBRr8kjZIyAQJ1P26436a4KRUBQLg1sgonxTVYW_DM/edit?usp=sharing)
 
 ## COMP 620 - Fall 2025
 
