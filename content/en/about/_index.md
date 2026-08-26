@@ -37,7 +37,6 @@ This course is run as a research seminar. The focus will be on critically readin
 
 **Room:** 1070
 
-**Start Date:** 08/25/2025 
+**Start Date:** TBA
 
-**End Date:** 12/05/2025
-
+**End Date:** TBA
